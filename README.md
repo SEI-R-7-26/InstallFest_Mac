@@ -207,7 +207,7 @@ Execute the following command in your terminal:
 brew install heroku/brew/heroku
 ```
 
-The formulae may not be latest, so we'll execute the next command to ensure the latest Heroku version is installed:
+The formula may not be latest, so we'll execute the next command to ensure the latest Heroku version is installed:
 
 ```sh
 heroku update
